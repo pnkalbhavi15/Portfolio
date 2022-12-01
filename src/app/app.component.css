@@ -5,6 +5,8 @@
   text-decoration: underline;
   margin-bottom: 30px;
   margin-top: 15px;
+  background-image: url("..\/assets/bgimg.jpg");
+  color: antiquewhite;
 }
 .container {
   display: flex;
