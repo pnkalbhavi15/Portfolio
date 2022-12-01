@@ -1,0 +1,29 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  max-width: 100%;
+}
+.img-col {
+  flex-basis: 20%;
+  border-radius: 25px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+.text-col {
+  font-size: large;
+}
+.button-col {
+  margin-left: 5px;
+  margin-right: 15px;
+}
